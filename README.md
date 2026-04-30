@@ -2,6 +2,12 @@
 
 Welcome to the *second* Raspberry Pi RP2350 hacking challenge!
 
+## Updated April 30th 2026
+No winner yet so we're going to extend this challenge again!
+We hear there is at least one team still making progress so we're going to put a further 6 months on the clock.
+The new end date is now October 31st 2026 and the prize is still $20,000.  
+Happy hacking!
+
 ## Updated February 3rd 2026
 As we've not received a winning submission AND know that some people are still working on the challenge we've decided to evolve
 the challenge a bit:
